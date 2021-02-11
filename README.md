@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Vishwakarma</h1>
 <h3 align="center">Pseudo Full Stack Web Developer</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=green)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meinhoonharsh&theme=onedark" alt="meinhoonharsh" /></a> </p>
 
