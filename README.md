@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsh Vishwakarma</h1>
-<h3 align="center">I am a Full Stack Web Developer who used to Code in
+<p> I am a Full Stack Web Developer who used to Code in
 different languages like HTML, CSS, JavaScript, PHP, Python,
 and there are different Frameworks like Laravel, React, etc.
 I also Create YouTube Videos and Instagram Reels about
 Tech Education that gives me Pleasure. I am always
-Willing to Learn Something New to Improve my Skills</h3>
+Willing to Learn Something New to Improve my Skills</p>
 
 ![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=green)
 
