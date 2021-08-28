@@ -12,7 +12,7 @@ Willing to Learn Something New to Improve my Skills</h3>
 
 - 🌱 I’m currently learning **Data Structures, Django, React**
 
-- 👨‍💻 Portfolio [http://harshvishwakarma.xyz](http://harshvishwakarma.xyz)
+- 👨‍💻 Portfolio [https://semikolan.co](https://semikolan.co)
 
 - 📫 Reach me via **harshprogrammer782@gmail.com**
 
