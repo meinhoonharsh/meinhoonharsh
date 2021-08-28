@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Harsh Vishwakarma</h1>
 <p> I am a Full Stack Web Developer who used to Code in
 different languages like HTML, CSS, JavaScript, PHP, Python,
@@ -16,24 +20,64 @@ Willing to Learn Something New to Improve my Skills</p>
 
 - 📫 Reach me via **harshprogrammer782@gmail.com**
 
+
+ 
+ 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/meinhoonharsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="meinhoonharsh" height="30" width="40" /></a>
-<a href="https://dev.to/meinhoonharsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="meinhoonharsh" height="30" width="40" /></a>
-<a href="https://twitter.com/meinhoonharsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="meinhoonharsh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/meinhoonharsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="meinhoonharsh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13955129/harsh-vishwakarma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13955129/harsh-vishwakarma" height="30" width="40" /></a>
-<a href="https://fb.com/meinhoonharsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="meinhoonharsh" height="30" width="40" /></a>
-<a href="https://instagram.com/meinhoonharsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="meinhoonharsh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/meinhoonharsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="meinhoonharsh" height="30" width="40" /></a>
+<a href="https://instagram.com/meinhoonharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meinhoonharsh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meinhoonharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meinhoonharsh" height="30" width="40" /></a>
+<a href="https://twitter.com/meinhoonharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meinhoonharsh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13955129/harsh-vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="meinhoonharsh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCH5teysfHgUZmROSQlxr7tA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+
+</p>
+ 
+
+<br /> 
+<p align="left">
+<h2><b>🛠 Languages and Tools I use </b></h2>
+
+  ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
+  ![C++](https://img.shields.io/badge/C++-040E2C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+  ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-040E2C?style=for-the-badge&logo=javascript)
+  ![JQuery](https://img.shields.io/badge/-JQuery-040E2C?style=for-the-badge&logo=jquery&logoColor=0769ad)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-040E2C?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+  ![Sass](https://img.shields.io/badge/-Sass-040E2C?style=for-the-badge&logo=sass&logoColor=cc6699)
+  ![Less](https://img.shields.io/badge/-Less-040E2C?style=for-the-badge&logo=less&logoColor=428bca)
+  <br>
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-040E2C?style=for-the-badge&logo=mongodb)
+  ![Express](https://img.shields.io/badge/-ExpressJS-040E2C?style=for-the-badge&logo=express)
+  ![React](https://img.shields.io/badge/-React-040E2C?style=for-the-badge&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-040E2C?style=for-the-badge&logo=node.js)
+  <br>
+  ![Git](https://img.shields.io/badge/-Git-040E2C?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-040E2C?style=for-the-badge&logo=github)
+  ![Heroku](https://img.shields.io/badge/-Heroku-040E2C?style=for-the-badge&logo=heroku&logoColor=6567a5)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Bash](https://img.shields.io/badge/-Bash-040E2C?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![NPM](https://img.shields.io/badge/-Npm-040E2C?style=for-the-badge&logo=npm&logoColor=white)
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br />
+<h2><b>⭐Github Stats</b></h2> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meinhoonharsh&show_icons=true&locale=en&layout=compact" alt="meinhoonharsh" /></p>
+![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=00ACFF)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meinhoonharsh&show_icons=true&locale=en" alt="meinhoonharsh" /></p>
+<a align="center" href="https://github.com/meinhoonharsh/meinhoonharsh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=meinhoonharsh&show_icons=true&theme=algolia&repo=meinhoonharsh" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meinhoonharsh&show_icons=true&theme=algolia&repo=meinhoonharsh" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meinhoonharsh&theme=algolia" alt="meinhoonharsh" /></p>
+<div style="font-weight: 800;">
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meinhoonharsh&" alt="meinhoonharsh" /></p>
 
+<br>
+
+<br />
+<br />
+<p><img src="https://activity-graph.herokuapp.com/graph?username=meinhoonharsh&bg_color=050F2C&color=0095DD&line=0095DD&hide_border=false" alt="contribution graph" /></p>
