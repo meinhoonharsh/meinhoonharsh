@@ -39,27 +39,49 @@ Willing to Learn Something New to Improve my Skills</p>
 <p align="left">
 <h2><b>🛠 Languages and Tools I use </b></h2>
 
-<!--   ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
-  ![C++](https://img.shields.io/badge/C++-040E2C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) -->
-  ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
+<!--   ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-040E2C?style=for-the-badge&logo=javascript)
   ![JQuery](https://img.shields.io/badge/-JQuery-040E2C?style=for-the-badge&logo=jquery&logoColor=0769ad)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-040E2C?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
   ![Sass](https://img.shields.io/badge/-Sass-040E2C?style=for-the-badge&logo=sass&logoColor=cc6699)
-<!--   ![Less](https://img.shields.io/badge/-Less-040E2C?style=for-the-badge&logo=less&logoColor=428bca) -->
-  <br>
-<!--   ![MongoDB](https://img.shields.io/badge/-MongoDB-040E2C?style=for-the-badge&logo=mongodb)
-  ![Express](https://img.shields.io/badge/-ExpressJS-040E2C?style=for-the-badge&logo=express) -->
   ![React](https://img.shields.io/badge/-React-040E2C?style=for-the-badge&logo=react)
-<!--   ![Node.js](https://img.shields.io/badge/-Node.js-040E2C?style=for-the-badge&logo=node.js) -->
-  <br>
   ![Git](https://img.shields.io/badge/-Git-040E2C?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-040E2C?style=for-the-badge&logo=github)
   ![Heroku](https://img.shields.io/badge/-Heroku-040E2C?style=for-the-badge&logo=heroku&logoColor=6567a5)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Bash](https://img.shields.io/badge/-Bash-040E2C?style=for-the-badge&logo=gnu-bash&logoColor=white)
-<!--   ![NPM](https://img.shields.io/badge/-Npm-040E2C?style=for-the-badge&logo=npm&logoColor=white) -->
+   -->
+  
+  
+![HTML5](https://img.shields.io/badge/html5-040E2C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-040E2C?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-040E2C?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-040E2C?style=for-the-badge&logo=php&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-040E2C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-040E2C?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/django-040E2C?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-040E2C?style=for-the-badge&logo=flask&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-040E2C?style=for-the-badge&logo=jquery&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-040E2C?style=for-the-badge&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/react-040E2C?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![Canva](https://img.shields.io/badge/Canva-040E2C?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-040E2C?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-040E2C?style=for-the-badge&logo=codepen&logoColor=black)
+![Sublime Text](https://img.shields.io/badge/sublime_text-040E2C?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-040E2C?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-040E2C?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-040E2C?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-040E2C?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-040E2C?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Apache](https://img.shields.io/badge/apache-040E2C?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-040E2C?style=for-the-badge&logo=nginx&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-040E2C?style=for-the-badge&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-040E2C?style=for-the-badge&logo=Arduino&logoColor=white)
 
 </p>
 
