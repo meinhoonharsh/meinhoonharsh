@@ -79,9 +79,9 @@ Willing to Learn Something New to Improve my Skills</p>
 ![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=00ACFF)
 
 <a align="center" href="https://github.com/meinhoonharsh/meinhoonharsh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=meinhoonharsh&show_icons=true&theme=algolia&repo=meinhoonharsh" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meinhoonharsh&show_icons=true&theme=algolia&repo=meinhoonharsh" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meinhoonharsh&theme=algolia" alt="meinhoonharsh" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=meinhoonharsh&show_icons=true&theme=algolia&repo=meinhoonharsh&hide_border=true&bg_color=0a192f&text_color=e6f1ff&title_color=64ffda" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meinhoonharsh&show_icons=true&theme=algolia&repo=meinhoonharsh&hide_border=true&bg_color=0a192f&text_color=e6f1ff&title_color=64ffda" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meinhoonharsh&theme=algolia&hide_border=true&bg_color=0a192f&text_color=e6f1ff&title_color=64ffda" alt="meinhoonharsh" /></p>
 <div style="font-weight: 800;">
 </a>
 
