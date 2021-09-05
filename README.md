@@ -90,4 +90,4 @@ Willing to Learn Something New to Improve my Skills</p>
 
 <br />
 <br />
-<p><img src="https://activity-graph.herokuapp.com/graph?username=meinhoonharsh&bg_color=050F2C&color=0095DD&line=0095DD&hide_border=false" alt="contribution graph" /></p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=meinhoonharsh&bg_color=0a192f&color=e6f1ff&line=64ffda&hide_border=true" alt="contribution graph" /></p>
