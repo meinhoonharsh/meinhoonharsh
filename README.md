@@ -10,9 +10,9 @@ I also Create YouTube Videos and Instagram Reels about
 Tech Education that gives me Pleasure. I am always
 Willing to Learn Something New to Improve my Skills</p>
 
-![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=green) -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meinhoonharsh&theme=onedark" alt="meinhoonharsh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meinhoonharsh&theme=algolia&column=8&no-bg=tr&no-frame=true" alt="meinhoonharsh" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures, Django, React**
 
@@ -76,7 +76,7 @@ Willing to Learn Something New to Improve my Skills</p>
 <br />
 <h2><b>⭐Github Stats</b></h2> 
 
-![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=00ACFF)
+<!-- ![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=00ACFF) -->
 
 <a align="center" href="https://github.com/meinhoonharsh/meinhoonharsh">
   <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=meinhoonharsh&show_icons=true&theme=algolia&repo=meinhoonharsh&hide_border=true&bg_color=0a192f&text_color=e6f1ff&title_color=64ffda" />
