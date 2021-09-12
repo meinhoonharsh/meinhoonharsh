@@ -2,9 +2,11 @@
 <!-- <div align="center">
 <img src="/banner/BANNER_YT-05.png" align="center"/>
 </div> -->
-<div align="center">
-<img src="/banner/BANNER_YT-06.png" align="center"/>
-</div>
+<a href="https://github.com/semikolan-co/">
+  <div align="center">
+    <img src="/banner/BANNER_YT-06.png" align="center"/> 
+  </div>
+</a>
 <!-- <div align="center">
 <img src="/banner/BANNER_YT-07.png" align="center"/>
 </div> -->
