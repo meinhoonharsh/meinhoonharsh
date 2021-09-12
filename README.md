@@ -12,7 +12,7 @@
 </div> -->
 
 <h1 align="center">Hi 👋, I'm Harsh Vishwakarma</h1>
-<p> I am a Full Stack Web Developer who used to Code in
+<p align="center"> I am a Full Stack Web Developer who used to Code in
 different languages like HTML, CSS, JavaScript, PHP, Python,
 and there are different Frameworks like Laravel, React, etc.
 I also Create YouTube Videos and Instagram Reels about
@@ -21,20 +21,20 @@ Willing to Learn Something New to Improve my Skills</p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=green) -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meinhoonharsh&theme=algolia&column=7&no-bg=tr&no-frame=true" alt="meinhoonharsh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meinhoonharsh&theme=algolia&column=7&no-bg=tr&no-frame=true" alt="meinhoonharsh" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures, Django, React**
+<!-- - 🌱 I’m currently learning **Data Structures, Django, React**
 
 - 👨‍💻 Portfolio [https://semikolan.co](https://semikolan.co)
 
-- 📫 Reach me via **harshprogrammer782@gmail.com**
+- 📫 Reach me via **harshprogrammer782@gmail.com** -->
 
 
  
  
  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://instagram.com/meinhoonharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meinhoonharsh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meinhoonharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meinhoonharsh" height="30" width="40" /></a>
 <a href="https://twitter.com/meinhoonharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meinhoonharsh" height="30" width="40" /></a>
@@ -45,9 +45,10 @@ Willing to Learn Something New to Improve my Skills</p>
  
 
 <br /> 
-<p align="left">
-<h2><b>🛠 Languages and Tools I use </b></h2>
+<h2 align="center"><b>🛠 Languages and Tools I use </b></h2>
 
+  
+<center>
   
   
 ![HTML5](https://img.shields.io/badge/html5-040E2C?style=for-the-badge&logo=html5&logoColor=white)
@@ -80,10 +81,10 @@ Willing to Learn Something New to Improve my Skills</p>
 ![MySQL](https://img.shields.io/badge/mysql-040E2C?style=for-the-badge&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-040E2C?style=for-the-badge&logo=Arduino&logoColor=white)
 
-</p>
+</center>
 
 <br />
-<h2><b>⭐Github Stats</b></h2> 
+<h2 align="center"><b>⭐Github Stats</b></h2> 
 
 <!-- ![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=00ACFF) -->
 
