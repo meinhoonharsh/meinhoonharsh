@@ -21,7 +21,7 @@ Willing to Learn Something New to Improve my Skills</p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=green) -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meinhoonharsh&theme=algolia&column=6&no-bg=tr&no-frame=true" alt="meinhoonharsh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meinhoonharsh&theme=algolia&column=8&no-bg=tr&no-frame=true" alt="meinhoonharsh" /></a> </p>
 
 <!-- - 🌱 I’m currently learning **Data Structures, Django, React**
 
