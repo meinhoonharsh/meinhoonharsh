@@ -12,12 +12,7 @@
 </div> -->
 
 <h1 align="center">Hi 👋, I'm Harsh Vishwakarma</h1>
-<p align="center"> I am a Full Stack Web Developer who used to Code in
-different languages like HTML, CSS, JavaScript, PHP, Python,
-and there are different Frameworks like Laravel, React, etc.
-I also Create YouTube Videos and Instagram Reels about
-Tech Education that gives me Pleasure. I am always
-Willing to Learn Something New to Improve my Skills</p>
+<p align="center">I'm a Full Stack Web Developer who usually works with JavaScript, PHP, Python, and other frameworks like Laravel and React. I also make videos on YouTube about how to build Tech Stuffs.  I am always eager to learn new things in order to improve my abilities.</p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=green) -->
 
