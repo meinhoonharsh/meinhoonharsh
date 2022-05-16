@@ -84,9 +84,9 @@
 <!-- ![](https://komarev.com/ghpvc/?username=meinhoonharsh&color=00ACFF) -->
 
 <a align="center" href="https://github.com/meinhoonharsh/meinhoonharsh">
-  <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=meinhoonharsh&show_icons=true&theme=algolia&repo=meinhoonharsh&hide_border=true&bg_color=0a192f&text_color=e6f1ff&title_color=64ffda" />
-<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meinhoonharsh&show_icons=true&theme=algolia&repo=meinhoonharsh&hide_border=true&bg_color=0a192f&title_color=e6f1ff&layout=compact" /> -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=meinhoonharsh&theme=algolia&hide_border=true&background=0A192F&stroke=8892B0&ring=64FFDA&fire=8892B0&border=DD2727&currStreakNum=E6F1FF&sideNums=E6F1FF&sideLabels=64FFDA&currStreakLabel=E6F1FF&dates=CCD6F6" alt="meinhoonharsh" /></p>
+  <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=meinhoonharsh&show_icons=true&theme=algolia&repo=meinhoonharsh&hide_border=true&bg_color=0d1117&text_color=e6f1ff&title_color=64ffda" />
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meinhoonharsh&show_icons=true&theme=algolia&repo=meinhoonharsh&hide_border=true&bg_color=0d1117&title_color=e6f1ff&layout=compact" /> -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=meinhoonharsh&theme=algolia&hide_border=true&background=0d1117&stroke=8892B0&ring=64FFDA&fire=8892B0&border=DD2727&currStreakNum=E6F1FF&sideNums=E6F1FF&sideLabels=64FFDA&currStreakLabel=E6F1FF&dates=CCD6F6" alt="meinhoonharsh" /></p>
 <div style="font-weight: 800;">
 </a>
 
@@ -94,7 +94,7 @@
 
 <br />
 <br />
-<p><img src="https://activity-graph.herokuapp.com/graph?username=meinhoonharsh&bg_color=0a192f&color=e6f1ff&line=64ffda&hide_border=true" alt="contribution graph" /></p
+<p><img src="https://activity-graph.herokuapp.com/graph?username=meinhoonharsh&bg_color=0d1117&color=e6f1ff&line=64ffda&hide_border=true" alt="contribution graph" /></p
   
 <br /> 
 
