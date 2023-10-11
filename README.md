@@ -4,7 +4,7 @@
 </div> -->
 <a href="https://github.com/semikolan-co/">
   <div align="center">
-    <img src="/banner/BANNER_YT-06.png" align="center"/> 
+    <img src="/banner/BANNER.png" align="center"/> 
   </div>
 </a>
 <!-- <div align="center">
