@@ -97,5 +97,6 @@
 <p><img src="https://activity-graph.herokuapp.com/graph?username=meinhoonharsh&bg_color=0a192f&color=e6f1ff&line=64ffda&hide_border=true" alt="contribution graph" /></p
   
 <br /> 
-
+<!--
 <img src="https://github.com/meinhoonharsh/meinhoonharsh/blob/output/github-contribution-grid-snake.svg" width="100%" />
+-->
