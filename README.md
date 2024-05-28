@@ -69,7 +69,6 @@
 ![Git](https://img.shields.io/badge/git-040E2C?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-040E2C?style=for-the-badge&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-040E2C?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-040E2C?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-040E2C?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Apache](https://img.shields.io/badge/apache-040E2C?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-040E2C?style=for-the-badge&logo=nginx&logoColor=white)
