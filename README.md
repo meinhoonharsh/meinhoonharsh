@@ -2,7 +2,7 @@
 <!-- <div align="center">
 <img src="/banner/BANNER_YT-05.png" align="center"/>
 </div> -->
-<a href="https://connectup.in/meinhoonharsh">
+<a href="https://rishteyy.in/harsh">
   <div align="center">
     <img src="/banner/BANNER.png" align="center"/> 
   </div>
