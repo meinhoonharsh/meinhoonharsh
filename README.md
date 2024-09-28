@@ -34,7 +34,7 @@
 <p align="center">
 <a href="https://instagram.com/meinhoonharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meinhoonharsh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meinhoonharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meinhoonharsh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCH5teysfHgUZmROSQlxr7tA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@meinhoonharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 
 </p>
  
