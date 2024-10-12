@@ -59,7 +59,6 @@
 ![NPM](https://img.shields.io/badge/NPM-040E2C?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-040E2C?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![Canva](https://img.shields.io/badge/Canva-040E2C?style=for-the-badge&logo=Canva&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-040E2C?style=for-the-badge&logo=git&logoColor=white)
