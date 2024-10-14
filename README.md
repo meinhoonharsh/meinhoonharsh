@@ -64,7 +64,6 @@
 ![GitHub](https://img.shields.io/badge/github-040E2C?style=for-the-badge&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-040E2C?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-040E2C?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Apache](https://img.shields.io/badge/apache-040E2C?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-040E2C?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-040E2C?style=for-the-badge&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-040E2C?style=for-the-badge&logo=Arduino&logoColor=white)
