@@ -12,7 +12,7 @@
 </div> -->
 
 <h1 align="center">Hi 👋, I'm Harsh Vishwakarma</h1>
-<p align="center">I am a Tech enthusiast skilled in Web Applications and SaaS. Successfully leading a startup for Indian senior citizens, managing backend, server architecture, and operations, and gained 27K+ users with Zero CAC.
+<p align="center">I am a Tech enthusiast skilled in Web Applications and SaaS. Successfully leading a startup for Indian senior citizens, managing backend, server architecture, and operations, and gained 33K+ users with Zero CAC.
   <br>
   Experienced Tech Head and Instructor, passionate about teaching and content creation in Tech, SaaS, and Entrepreneurship</p>
 
